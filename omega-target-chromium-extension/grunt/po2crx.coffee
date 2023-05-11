@@ -1,14 +1,54 @@
 module.exports =
   locales:
     files:
-      'build/_locales/en/messages.json':
-        '../omega-locales/en_US/LC_MESSAGES/omega-web.po'
-      'build/_locales/zh/messages.json':
-        '../omega-locales/zh_CN/LC_MESSAGES/omega-web.po'
+      'build/_locales/ach/messages.json':
+        '../omega-locales/ach/LC_MESSAGES/omega-web.po'
       'build/_locales/cs/messages.json':
         '../omega-locales/cs/LC_MESSAGES/omega-web.po'
+      'build/_locales/de/messages.json':
+        '../omega-locales/de/LC_MESSAGES/omega-web.po'
+      'build/_locales/en/messages.json':
+        '../omega-locales/en_US/LC_MESSAGES/omega-web.po'
+      'build/_locales/es/messages.json':
+        '../omega-locales/es/LC_MESSAGES/omega-web.po'
+      'build/_locales/es_AR/messages.json':
+        '../omega-locales/es_AR/LC_MESSAGES/omega-web.po'
       'build/_locales/fa/messages.json':
         '../omega-locales/fa/LC_MESSAGES/omega-web.po'
+      'build/_locales/fr/messages.json':
+        '../omega-locales/fr/LC_MESSAGES/omega-web.po'
+      'build/_locales/he_IL/messages.json':
+        '../omega-locales/he_IL/LC_MESSAGES/omega-web.po'
+      'build/_locales/is/messages.json':
+        '../omega-locales/is/LC_MESSAGES/omega-web.po'
+      'build/_locales/it/messages.json':
+        '../omega-locales/it/LC_MESSAGES/omega-web.po'
+      'build/_locales/ja/messages.json':
+        '../omega-locales/ja/LC_MESSAGES/omega-web.po'
+      'build/_locales/lzh/messages.json':
+        '../omega-locales/lzh/LC_MESSAGES/omega-web.po'
+      'build/_locales/nb_NO/messages.json':
+        '../omega-locales/nb_NO/LC_MESSAGES/omega-web.po'
+      'build/_locales/nl/messages.json':
+        '../omega-locales/nl/LC_MESSAGES/omega-web.po'
+      'build/_locales/pt/messages.json':
+        '../omega-locales/pt/LC_MESSAGES/omega-web.po'
+      'build/_locales/pt_BR/messages.json':
+        '../omega-locales/pt_BR/LC_MESSAGES/omega-web.po'
+      'build/_locales/ru/messages.json':
+        '../omega-locales/ru/LC_MESSAGES/omega-web.po'
+      'build/_locales/si/messages.json':
+        '../omega-locales/si/LC_MESSAGES/omega-web.po'
+      'build/_locales/sk/messages.json':
+        '../omega-locales/sk/LC_MESSAGES/omega-web.po'
+      'build/_locales/sl/messages.json':
+        '../omega-locales/sl/LC_MESSAGES/omega-web.po'
+      'build/_locales/tr/messages.json':
+        '../omega-locales/tr/LC_MESSAGES/omega-web.po'
+      'build/_locales/uk/messages.json':
+        '../omega-locales/uk/LC_MESSAGES/omega-web.po'
+      'build/_locales/zh/messages.json':
+        '../omega-locales/zh_CN/LC_MESSAGES/omega-web.po'
       'build/_locales/zh_CN/messages.json':
         '../omega-locales/zh_CN/LC_MESSAGES/omega-web.po'
       'build/_locales/zh_TW/messages.json':

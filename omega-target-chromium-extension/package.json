@@ -18,7 +18,7 @@
     "grunt-mocha-test": "~0.11.0",
     "load-grunt-config": "^0.13.1",
     "minifyify": "^4.1.1",
-    "po2json": "^0.3.2"
+    "po2json": "^0.4.5"
   },
   "dependencies": {
     "heap": "^0.2.6",
