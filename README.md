@@ -11,9 +11,9 @@ Chromium Extension
 The project is available as a Chromium Extension.
 
 You can try it on [Chrome Web Store](https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif),
-or grab a packaged extension file (CRX) for offline installation on the [Releases page](https://github.com/FelisCatus/SwitchyOmega/releases).
+or grab a packaged extension file (CRX) for offline installation on the [Releases page](https://github.com/chenjia404/SwitchyOmega/releases).
 
-Please [report issues on the issue tracker.](https://github.com/FelisCatus/SwitchyOmega/issues)
+Please [report issues on the issue tracker.](https://github.com/chenjia404/SwitchyOmega/issues)
 
 Firefox Addon (Experimental)
 ----------------------------
@@ -30,10 +30,10 @@ Firefox Developer Edition (>= 55) as well, but we strongly advise against doing
 so. It won't work at all in Firefox 54 Stable.
 
 You can try it on [Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/),
-or grab a packaged extension file (XPI) for offline installation on the [Releases page](https://github.com/FelisCatus/SwitchyOmega/releases).
+or grab a packaged extension file (XPI) for offline installation on the [Releases page](https://github.com/chenjia404/SwitchyOmega/releases).
 
 Please make sure that you are using the latest Nightly build before you
-[report issues](https://github.com/FelisCatus/SwitchyOmega/issues).
+[report issues](https://github.com/chenjia404/SwitchyOmega/issues).
 Build number AND build date should be mentioned somewhere in the issue.
 
 NOTE: PAC Profiles DO NOT work on Firefox due to AMO review policies. We will see what we can do.
@@ -88,9 +88,6 @@ Translation is hosted on Weblate. If you want to help improve the translated
 text or start translation for your language, please follow the link of the picture
 below.
 
-本项目翻译由Weblate托管。如果您希望帮助改进翻译，或将本项目翻译成一种新的语言，请
-点击下方图片链接进入翻译。
-
 [![Translation status](https://hosted.weblate.org/widgets/switchyomega/-/287x66-white.png)](https://hosted.weblate.org/engage/switchyomega/?utm_source=widget)
 
 ## Building the project
@@ -143,10 +140,3 @@ Notice
 SwitchyOmega currently does not have a dedicated project homepage. `switchyomega.com` and similar webites are NOT affiliated with the SwitchyOmega project in any way, nor are they maintained by SwitchyOmega project members. Please refer to this Github repository and wiki for official information.
 
 SwitchyOmega is not cooperating with any proxy providers, VPN providers or ISPs at the moment. No advertisement is displayed in SwitchyOmega project or software. Proxy providers are welcome to recommend SwitchyOmega as part of the solution in tutorials, but it must be made clear that SwitchyOmega is an independent project, is not affiliated with the provider and therefore cannot provide any support on network connections or proxy technology.
-
-重要声明
---------
-
-SwitchyOmega 目前没有专门的项目主页。 `switchyomega.com` 等网站与 SwitchyOmega 项目并无任何关联，也并非由 SwitchyOmega 项目成员维护。一切信息请以 Github 上的项目和 wiki 为准。
-
-SwitchyOmega 目前未与任何代理提供商、VPN提供商或 ISP 达成任何合作协议，项目或软件中不包含任何此类广告。欢迎代理提供商在教程或说明中推荐 SwitchyOmega ，但请明确说明此软件是独立项目，与代理提供商无关，且不提供任何关于网络连接或代理技术的支持。
